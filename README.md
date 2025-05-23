@@ -1,4 +1,4 @@
-Ana karakter bir hayalettir, yapışkan özelliği küçük insan figürlerini toplamasına ve onları mezarlığa sürüklemesine yarar. Her başarılı teslimatta puan kazanır.GMTK Game Jam 2021 yarışmasındaki Sticky jo adlı oyunun farklı bir bakışta uyarlmamasıdır
+Ana karakter bir hayalettir, yapışkan özelliği küçük insan figürlerini toplamasına ve onları mezarlığa sürüklemesine yarar. Her başarılı teslimatta puan kazanır.GMTK Game Jam 2021 yarışmasındaki Sticky jo adlı oyunun farklı bir bakışta uyarlamasıdır
 
 
 
