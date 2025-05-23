@@ -37,3 +37,9 @@ Dosya Yapısı
 ├── jump.wav
 └── bgMusic.wav
 
+
+kullanılan dosyalar özel projelerde freetouse
+background vecteezy.com
+karakter   pixelsquid.com
+sesler     freesound.org 
+sitelerinden edinilmiştir.
